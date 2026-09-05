@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Sameur</h1>
-<h3 align="center">A passionate Server Administrator and Devops Engineer</h3>
+<h3 align="center">Linux & Infrastructure Professional</h3>
+<h4>Transitioning into DevOps Engineering</h4>
 
 - 🔭 I’m currently working on **Diana Host Ltd.**
 
