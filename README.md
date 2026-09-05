@@ -1,10 +1,13 @@
-<h3 align="left">## About Me</h3>
 <h1 align="center">Hi, I'm Sameur</h1>
-<h3 align="center">Linux & Infrastructure Professional</h3>
-<h4 align="center">Transitioning into DevOps Engineering</h4>
+<h3 align="center">Linux & Infrastructure Professional | Transitioning into DevOps Engineering</h3>
 
-- 🔭 I’m currently working on **Diana Host Ltd.**
+<p>I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.
 
+I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.
+
+I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.</p>
+
+<h3 align="left">## About Me</h3>
 - 🌱 I’m currently learning **CI/CD Pipeline**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imsameur/](https://github.com/imsameur/)
