@@ -1,44 +1,22 @@
 <h1 align="center">Hi, I'm Sameur</h1>
 <h3 align="center">Linux & Infrastructure Professional | Transitioning into DevOps Engineering</h3>
 
-<h3 align="left">## About Me</h3>
-<p>I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.
+# 💫 About Me:
+I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.<br><br>I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.<br><br>I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.
 
-I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.
 
-I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.</p>
+# 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/imsameur) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sameur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com) 
 
-- 📫 How to reach me **sameur.mohammad@gmail.com**
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-<h3 align="left">## DevOps & Cloud Skills</h3>
-Linux & Server Administration
-Hosting & Infrastructure Operations
-AWS Cloud
-Infrastructure Automation
-Containerization
-CI/CD
-Kubernetes
-Infrastructure as Code
-<h3 align="left">## Featured Projects</h3>
-My DevOps projects focus on practical infrastructure, automation, containerization, cloud deployment, and CI/CD.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=imsameur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-AWS Infrastructure with Terraform
-Dockerized Node.js Application
-Kubernetes Application Deployment
-Ansible Server Automation
-Jenkins CI/CD Pipeline
-Prometheus & Grafana Monitoring
+---
+[![](https://komarev.com/ghpvc/?username=imsameur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Project repositories will be added as they are completed and documented.
-<h3 align="left">## What I Focus On</h3>
-I focus on practical DevOps engineering by combining my Linux and infrastructure background with cloud, automation, containers, CI/CD, and monitoring.
-<h3 align="left">## GitHub Stats</h3>
-<h3 align="left">## Connect With Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsameur" height="30" width="40" /></a>
-<a href="https://fb.com/sameur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameur" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Technologies and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
