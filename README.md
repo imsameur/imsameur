@@ -13,16 +13,16 @@ CI/CD
 Kubernetes
 Infrastructure as Code
 
-# ☁️ DevOps & Cloud Technologies:
+<h4># ☁️ DevOps & Cloud Technologies:</h4>
 
-# 🌐 Connect Me:
+<h4># 🌐 Connect Me:</h4>
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sameur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com) 
 
-# 🛠️ Core Skills: 
+<h4># 🛠️ Core Skills: </h4>
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-# 🚀 Featured Projects
+<h4># 🚀 Featured Projects </h4>
 
 <h4>My DevOps projects focus on practical infrastructure, automation, containerization, cloud deployment, and CI/CD.</h4>
 <ul>
@@ -35,10 +35,10 @@ Infrastructure as Code
 </ul>
 Project repositories will be added as they are completed and documented.
 
-# 📊 GitHub Activity
+<h4># 📊 GitHub Activity </h4>
 
 
-# 📊 GitHub Stats:
+<h4># 📊 GitHub Stats: </h4>
 ![](https://github-readme-stats.shion.dev/api?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imsameur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
