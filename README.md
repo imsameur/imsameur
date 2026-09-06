@@ -1,24 +1,37 @@
 <h1 align="center">Hi, I'm Sameur</h1>
 <h3 align="center">Linux & Infrastructure Professional | Transitioning into DevOps Engineering</h3>
 
+<h3 align="left">## About Me</h3>
 <p>I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.
 
 I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.
 
 I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.</p>
 
-<h3 align="left">## About Me</h3>
-- 🌱 I’m currently learning **CI/CD Pipeline**
-
-- 👨‍💻 All of my projects are available at [https://github.com/imsameur/](https://github.com/imsameur/)
-
-- 💬 Ask me about **cPanle, WHM**
-
 - 📫 How to reach me **sameur.mohammad@gmail.com**
 
 <h3 align="left">## DevOps & Cloud Skills</h3>
+Linux & Server Administration
+Hosting & Infrastructure Operations
+AWS Cloud
+Infrastructure Automation
+Containerization
+CI/CD
+Kubernetes
+Infrastructure as Code
 <h3 align="left">## Featured Projects</h3>
-<h3 align="left">## What I'm Currently Learning</h3>
+My DevOps projects focus on practical infrastructure, automation, containerization, cloud deployment, and CI/CD.
+
+AWS Infrastructure with Terraform
+Dockerized Node.js Application
+Kubernetes Application Deployment
+Ansible Server Automation
+Jenkins CI/CD Pipeline
+Prometheus & Grafana Monitoring
+
+Project repositories will be added as they are completed and documented.
+<h3 align="left">## What I Focus On</h3>
+I focus on practical DevOps engineering by combining my Linux and infrastructure background with cloud, automation, containers, CI/CD, and monitoring.
 <h3 align="left">## GitHub Stats</h3>
 <h3 align="left">## Connect With Me</h3>
 <p align="left">
