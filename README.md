@@ -40,8 +40,9 @@ Project repositories will be added as they are completed and documented.
 
 
 <h4># 📊 GitHub Stats: </h4>
-![](https://github-readme-stats.shion.dev/api?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=imsameur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=imsameur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imsameur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imsameur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
