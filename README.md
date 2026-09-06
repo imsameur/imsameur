@@ -4,19 +4,19 @@
 I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.<br><br>I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.<br><br>I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.
 
 <h4># 💫 About Me:</h4>
-Linux & Server Administration
-Hosting & Infrastructure Operations
-AWS Cloud
-Infrastructure Automation
-Containerization
-CI/CD
-Kubernetes
-Infrastructure as Code
+<ul>
+ <li>Linux & Server Administration </li>
+ <li>Hosting & Infrastructure Operations </li>
+ <li>AWS Cloud </li>
+ <li>CI/CD </li>
+ <li>Kubernetes </li>
+ <li>Infrastructure as Code </li>
+</ul>
 
 <h4># ☁️ DevOps & Cloud Technologies:</h4>
 
 <h4># 🌐 Connect Me:</h4>
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sameur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sameur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com)
 
 <h4># 🛠️ Core Skills: </h4>
 
