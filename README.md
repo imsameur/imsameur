@@ -3,7 +3,8 @@
 
 I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.<br><br>I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.<br><br>I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.
 
-<h4># 💫 About Me:</h4>
+<h4># ☁️ DevOps & Cloud Technologies:</h4>
+
 <ul>
  <li>Linux & Server Administration </li>
  <li>Hosting & Infrastructure Operations </li>
@@ -12,8 +13,6 @@ I have professional experience in Linux system administration, server infrastruc
  <li>Kubernetes </li>
  <li>Infrastructure as Code </li>
 </ul>
-
-<h4># ☁️ DevOps & Cloud Technologies:</h4>
 
 <h4># 🌐 Connect Me:</h4>
 
@@ -35,14 +34,4 @@ I have professional experience in Linux system administration, server infrastruc
  <li> Prometheus & Grafana Monitoring </li>
 </ul>
 Project repositories will be added as they are completed and documented.
-
-<h4># 📊 GitHub Activity </h4>
-
-
-<h4># 📊 GitHub Stats: </h4>
-
-![](https://github-readme-stats.shion.dev/api?username=imsameur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=imsameur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imsameur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
