@@ -1,37 +1,47 @@
-<h1 align="center">Hi, I'm Sameur</h1>
-<h3 align="center">Linux & Infrastructure Professional | Hosting Infrastructure | AWS Cloud | DevOps</h3>
+<h1 align="center">Hi, I'm Sameur Rahman 👋</h1>
+<h3 align="center">Linux System Administration | Cloud Infrastructure | DevOps</h3>
 
-I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.<br><br>I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.<br><br>I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.
+<p align="center">
+  Building practical skills in cloud infrastructure, automation, containers, CI/CD, and monitoring.
+</p>
 
-<h4># ☁️ DevOps & Cloud Technologies:</h4>
+## About Me
 
-<ul>
- <li>Linux & Server Administration </li>
- <li>Hosting & Infrastructure Operations </li>
- <li>AWS Cloud </li>
- <li>CI/CD </li>
- <li>Kubernetes </li>
- <li>Infrastructure as Code </li>
-</ul>
+I have 7+ years of professional experience in Linux system administration, hosting infrastructure, and technical operations. I’m expanding this foundation through hands-on DevOps and cloud projects, with a focus on reliable infrastructure, automation, and deployment workflows.
 
-<h4># 🌐 Connect Me:</h4>
+- 🐧 Linux administration, server operations, and troubleshooting
+- ☁️ AWS infrastructure and cloud deployment
+- 📦 Docker and Kubernetes application deployment
+- ⚙️ Ansible automation and Terraform Infrastructure as Code
+- 🔄 Jenkins CI/CD pipelines
+- 📊 Prometheus and Grafana monitoring
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sameur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com) 
+## Technical Skills
 
-<h4># 🛠️ Core Skills: </h4>
+**Systems:** Linux, Bash, Nginx, Apache  
+**Cloud & Infrastructure:** AWS, Terraform, VPC, EC2, ALB, Auto Scaling  
+**Containers:** Docker, Kubernetes  
+**Automation & CI/CD:** Ansible, Jenkins, Git, GitHub  
+**Monitoring:** Prometheus, Grafana, Node Exporter
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+## Featured Projects
 
-<h4># 🚀 Featured Projects </h4>
+My portfolio contains hands-on projects focused on infrastructure, automation, containerization, cloud deployment, and CI/CD.
 
-<h4>My DevOps projects focus on practical infrastructure, automation, containerization, cloud deployment, and CI/CD.</h4>
-<ul>
- <li> AWS Infrastructure with Terraform </li>
- <li> Dockerized Node.js Application </li>
- <li> Kubernetes Application Deployment </li>
- <li> Ansible Server Automation </li>
- <li> Jenkins CI/CD Pipeline </li>
- <li> Prometheus & Grafana Monitoring </li>
-</ul>
-Project repositories will be added as they are completed and documented.
+- [Terraform AWS Infrastructure](https://github.com/imsameur/devops-projects/tree/main/terraform-aws-infrastructure)
+- [AWS Application Load Balancer & Auto Scaling](https://github.com/imsameur/devops-projects/tree/main/aws-alb-asg)
+- [Ansible Application Deployment](https://github.com/imsameur/devops-projects/tree/main/ansible-app-deployment)
+- [Jenkins Docker CI/CD Pipeline](https://github.com/imsameur/devops-projects/tree/main/jenkins-docker-cicd)
+- [Kubernetes Node.js Application](https://github.com/imsameur/devops-projects/tree/main/kubernetes-nodejs)
+- [Dockerized Node.js Application](https://github.com/imsameur/devops-projects/tree/main/docker-nodejs-app)
+- [Linux Server Hardening](https://github.com/imsameur/devops-projects/tree/main/linux-server-hardening)
+- [Linux Server Backup Automation](https://github.com/imsameur/devops-projects/tree/main/linux-server-backup)
+- [Linux Server Monitoring Script](https://github.com/imsameur/devops-projects/tree/main/linux-server-monitor)
 
+➡️ **[Explore all DevOps projects](https://github.com/imsameur/devops-projects)**
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameur)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/imsameur)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sameur.mohammad@gmail.com)
