@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sameur</h1>
-<h3 align="center">Linux & Infrastructure Professional | Transitioning into DevOps Engineering</h3>
+<h3 align="center">Linux & Infrastructure Professional | Hosting Infrastructure | AWS Cloud | DevOps</h3>
 
 I have professional experience in Linux system administration, server infrastructure, hosting environments, and operations.<br><br>I'm currently focusing on DevOps and Cloud Engineering, with hands-on experience in AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, and infrastructure automation.<br><br>I enjoy building, automating, documenting, and improving infrastructure and deployment workflows.
 
